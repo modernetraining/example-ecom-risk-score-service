@@ -1,9 +1,10 @@
 package com.example.ecom.risk.service;
 
 import com.example.ecom.risk.model.RiskCheckRequest;
-import org.junit.Test;
 import java.math.BigDecimal;
-import static org.junit.Assert.assertEquals;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RiskScoreServiceTest {
 
