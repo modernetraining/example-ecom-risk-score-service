@@ -1,9 +1,8 @@
 package com.example.ecom.risk.model;
 
+import org.junit.Test;
 import java.math.BigDecimal;
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
 public class RiskCheckRequestTest {
 
